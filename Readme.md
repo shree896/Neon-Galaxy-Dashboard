@@ -11,7 +11,7 @@ A **stunning futuristic dashboard** with **neon effects, twinkling stars, and in
 ✅ **Futuristic Music Player 🎵**  
 
 ## 🎨 Live Demo  
-🚀 **Check it out here:** [Your GitHub Pages Link](https://your-username.github.io/neon-galaxy-dashboard/)  
+🚀 **Check it out here:** [Your GitHub Pages Link](https://github.com/shree896/Neon-Galaxy-Dashboard.git)  
 
 ---
 
@@ -25,3 +25,11 @@ A **stunning futuristic dashboard** with **neon effects, twinkling stars, and in
    ```sh
    git clone https://github.com/your-username/neon-galaxy-dashboard.git
    cd neon-galaxy-dashboard
+
+2. Open index.html in your browser.
+
+🔧 Usage
+The digital clock updates in real-time.
+The background color button changes the theme dynamically.
+The music player allows you to play audio directly.
+The weather section fetches live weather data (you need to replace "YOUR_API_KEY" in script.js).
